@@ -39,7 +39,11 @@ public:
 
     // return top element of the stack
     T top() {
-        return stck[Top];
+        if (Top == -1) {
+            cout << "Empty Stack" << endl;
+            return -1;
+        }
+        else return stck[Top];
     }
     // return the size of the stack
     int Size();

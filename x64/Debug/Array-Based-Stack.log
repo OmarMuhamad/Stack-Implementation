@@ -1,0 +1,6 @@
+﻿  Array-Based-Stack.cpp
+G:\CPlusPlus Projects\Array-Based-Stack\Array-Based-Stack\STACKHeader.h(134,26): warning C4101: 's': unreferenced local variable
+G:\CPlusPlus Projects\Array-Based-Stack\Array-Based-Stack\STACKHeader.h(86,63): message : while compiling class template member function 'void Stack<int>::manageStack(Stack<int>)'
+G:\CPlusPlus Projects\Array-Based-Stack\Array-Based-Stack\Array-Based-Stack.cpp(13,19): message : see reference to function template instantiation 'void Stack<int>::manageStack(Stack<int>)' being compiled
+G:\CPlusPlus Projects\Array-Based-Stack\Array-Based-Stack\Array-Based-Stack.cpp(12,21): message : see reference to class template instantiation 'Stack<int>' being compiled
+  Array-Based-Stack.vcxproj -> G:\CPlusPlus Projects\Array-Based-Stack\x64\Debug\Array-Based-Stack.exe
